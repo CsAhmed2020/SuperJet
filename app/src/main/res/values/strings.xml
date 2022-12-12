@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SuperJet</string>
+    <string name="have_no_account">You haven\'t account! </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="back">Back to</string>
+    <string name="have_account">"You have an account! "</string>
+    <string name="cash">Cash</string>
+    <string name="credit">Credit</string>
+    <string name="vodafone">Vodafone</string>
+    <string name="other">Other</string>
+    <string name="error_fill_all_fields">Please fill all fields.</string>
+    <string name="error_email_badly_formatted">The email address is badly formatted.</string>
+    <string name="equal_password">Both Password Fields must be equal.</string>
+    <string name="error_profile_image_not_selected">Select your profile image</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_invalid_phone">Invalid Phone Number</string>
+    <string name="error_email_already_in_use">The email has already been registered. Please login with your password.</string>
+    <string name="error_sign_up">There was an error in registration.</string>
+    <string name="error_user_not_found">User with this email doesn\'t exist.</string>
+    <string name="error_wrong_password">Your password is wrong.</string>
+    <string name="error_sign_in">There was an error in login.</string>
+    <string name="error_reset_password">Error in reset password</string>
+    <string name="review_email">Review Email</string>
+    <string name="review_email_msg">Go Back to your email to reset your password</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_send">Send</string>
+</resources>

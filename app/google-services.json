@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708212672424",
+    "project_id": "superjet-8e3a5",
+    "storage_bucket": "superjet-8e3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708212672424:android:4cc002b4b1dc984567ff9d",
+        "android_client_info": {
+          "package_name": "com.example.superjet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708212672424-7k3g0jh6tl6e3umlmppdci5nvok9c4p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superjet",
+            "certificate_hash": "d850608ecf74d0ad9264dee675ab94aba92ce94d"
+          }
+        },
+        {
+          "client_id": "708212672424-351fepfjd3osfptrmec1kjd5filtnji5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzyAaF6c5SbYg3zGGlP6jZ6VoY59rt4KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708212672424-351fepfjd3osfptrmec1kjd5filtnji5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
